@@ -18,4 +18,4 @@ Outside of work, I mainly spend my time practicing my calisthenics skills, runni
 Take a look at my projects on [GitHub]({{ site.github }}) and [YouTube]({{ site.youtube }}), or just send me an email at [{{ site.email }}](mailto: {{ site.email }}).
 
 [^name-explanation]: I created this username when I was playing [Transformice](https://transformice.com) back in fourth grade. "Extreme" was a cool name to me but it wasn't available, so I came up with "Extremq".
-[^translation]: If you don't trust me, then trust [Google Translate](https://translate.google.com/?sl=ro&tl=en&text=Sunt%20doar%20eu.&op=translate)
+[^translation]: If you don't trust me, maybe you will trust [Google Translate](https://translate.google.com/?sl=ro&tl=en&text=Sunt%20doar%20eu.&op=translate).
