@@ -3,27 +3,19 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I'm Extremq[^name-explanation], I was granted life in 2002, and I love creating!
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+The domain of this site, **suntdoar.eu**, comes from "Sunt doar eu" which means "It's just me" in Romanian[^translation].
 
-There are currently two themes built on Poole:
+I've been programming since I was 15, and I've been doing it professionally since I started my second year at TUIASI.
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+I work with a lot of clients and their data by creating scalable solutions for their needs. AI, ML, and data science are my main interests.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Outside of work, I mainly spend my time practicing my calisthenics skills, running and starting new projects with my friends!
 
-## Setup
+# Contact
 
-Some fun facts about the setup of this project include:
+Take a look at my projects on [GitHub]({{ site.github }}) and [YouTube]({{ site.youtube }}), or just send me an email at [{{ site.email }}](mailto: {{ site.email }}).
 
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+[^name-explanation]: I created this username when I was playing [Transformice](https://transformice.com) back in fourth grade. "Extreme" was a cool name to me but it wasn't available, so I came up with "Extremq".
+[^translation]: [Google Translate](https://translate.google.com/?sl=ro&tl=en&text=Sunt%20doar%20eu.&op=translate)

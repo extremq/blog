@@ -1,9 +1,11 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
-paginate: 1
+title: suntdoar.eu
+url: https://suntdoar.eu
 baseurl: ""
 permalink: pretty
+email: extremqcontact@gmail.com
+youtube: https://www.youtube.com/@Extremq
+github: https://github.com/extremq
 
 # Gems
 plugins:
@@ -25,16 +27,22 @@ sass:
   sass_dir: _sass
   style: :compressed
 
+# Markdown options
+kramdown:
+  footnote_backlink: "&#8617;&#xfe0e;"
+  syntax_highlighter: rouge
+  input: GFM
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
 # ga_analytics: UA-000000-0
 
+
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Extremq
+  url: https://github.com/extremq
+  email: extremqcontact@gmail.com
 
 # Custom vars
 version: 3.0.0
@@ -42,7 +50,7 @@ version: 3.0.0
 # Navbar page list
 nav:
   - title: Blog
-    url: /archive
+    url: /
 
   - title: About
     url: /about
