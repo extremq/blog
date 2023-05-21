@@ -9,7 +9,7 @@ I go by my online alias "Extremq", and I am a computer science enthusiast who th
 
 You can also find my other presences online on [GitHub]({{ site.github }}) and [YouTube]({{ site.youtube }}), or contact me on [{{ site.email }}](mailto: {{ site.email }}). 
 
-For more, check out the [About](/about) page.
+For more info, check out the [About](/about) page.
 
 # Articles
 
