@@ -30,9 +30,9 @@
       </footer>
     </div>
 
-    {% if jekyll.environment %}
-        {{ jekyll.environment }}
-    {% else if jekyll.environment == 'development' and site.ga_analytics %}
+    {% if jekyll.environment != 'development' %}
+        Development mode.
+    {% else if site.ga_analytics %}
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-EL1EQ30NQ9"></script>
     <script>
