@@ -32,7 +32,7 @@
 
     {% if jekyll.environment %}
         Development mode.
-    {% else if jekyll.environment != 'development' and site.ga_analytics %}
+    {% else if jekyll.environment == 'development' and site.ga_analytics %}
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-EL1EQ30NQ9"></script>
     <script>
