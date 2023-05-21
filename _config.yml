@@ -35,7 +35,7 @@ kramdown:
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
+ga_analytics: "G-EL1EQ30NQ9"
 
 
 # Specify the author for blog posts
