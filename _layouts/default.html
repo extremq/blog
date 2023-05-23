@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="dark-poole">
   {% include head.html %}
-
   <body>
     <div class="container content">
       <header class="masthead">
@@ -30,10 +29,10 @@
       </footer>
     </div>
 
+    <!-- Google tag (gtag.js) -->
     {% if jekyll.environment != 'development' %}
         Development mode.
     {% else if site.ga_analytics %}
-    <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-EL1EQ30NQ9"></script>
     <script>
         window.dataLayer = window.dataLayer || [];

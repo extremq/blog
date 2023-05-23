@@ -3,15 +3,13 @@ layout: post
 title: Introduction
 ---
 
-Hello hello!
-
 I've finally moved on from my old, homemade blog[^old-blog], and I'm now using [Jekyll](https://jekyllrb.com/).
 
 Why did I do that? The reason is simple:
 
-It took me a lot of time to write a post and it actually made writing less enjoyable, ironically.
+It took me a lot of time to write a post and it actually made writing less enjoyable, ironically. Let me explain.
 
-## How my old blog worked
+# How my old blog worked
 
 I wanted to build my own static site generator from scratch. 
 
@@ -40,7 +38,7 @@ It worked well. It was great. In theory, it was a recursive system that could be
 
 *But in practice*, it was so annoying to write a post. I had to write the HTML code myself, and I had to remember all the components I had.
 
-## The ugly part
+# The ugly part
 `<br>`. 
 
 `<br><br><br>`. 
@@ -48,6 +46,9 @@ It worked well. It was great. In theory, it was a recursive system that could be
 That was like 50% of my posts.
 
 ![br](/assets/images/001/uglycode.png){:.centered}
+
+Not fun.
+{: .caption}
 
 Not only that, but Visual Studio Code would always try and close the HTML tags (`<a></a>`) even though all my components were just a singular closed tag (`<mycomponent/>`).
 
@@ -58,7 +59,7 @@ And it didn't stop there:
 
 So I'm glad I moved on.
 
-## The new blog
+# The new blog
 This new blog is based on Jekyll. Everyone was praising Jekyll:
 
 > Oh, it's so easy to use! You just write a post in Markdown and it's done!
@@ -75,12 +76,12 @@ For example, **themes**. I never used Ruby before. It was easy to install `jekyl
 
 It's fine, though! I'm actually pleased with the result. I recommend Jekyll to anyone who wants to start a blog. By the way, the theme is called [Dark Poole](https://github.com/andrewhwanpark/dark-poole) but with some tweaks added.
 
-## Hosting
+# Hosting
 I'm hosting this using [Netlify](https://netlify.com). It's free and it's a CI/CD[^ci-cd] service. I just push my code to GitHub and Netlify builds and deploys the site for me. It's great!
 
 I bought this domain from [GoDaddy](https://godaddy.com). Since I am an EU citizen, I could get it really cheap and it has domain privacy[^domain-privacy] included. Less money for GoDaddy, more money for me!
 
-## Conclusion
+# Conclusion
 All in all, this has been a smooth transition. I'm ready to share some of my new projects with you. Stay tuned, cause I've got a lot of stuff on the cooker!
 
 [^old-blog]: It's still available on [extremq.github.io](https://extremq.github.io), and the source code is archived on [GitHub](https://github.com/extremq/extremq.github.io).
