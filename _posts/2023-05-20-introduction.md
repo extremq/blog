@@ -45,7 +45,7 @@ It worked well. It was great. In theory, it was a recursive system that could be
 
 That was like 50% of my posts.
 
-![br](/assets/images/001/uglycode.png){:.centered}
+![br](/assets/images/001/uglycode.webp){:.centered}
 
 Not fun.
 {: .caption}
