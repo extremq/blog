@@ -79,6 +79,8 @@ It's fine, though! I'm actually pleased with the result. I recommend Jekyll to a
 # Hosting
 I'm hosting this using [Netlify](https://netlify.com). It's free and it's a CI/CD[^ci-cd] service. I just push my code to GitHub and Netlify builds and deploys the site for me. It's great!
 
+> Edit: I'm now using [Vercel](https://vercel.com) because of Next.js which I'm using for my other projects.
+
 I bought this domain from [GoDaddy](https://godaddy.com). Since I am an EU citizen, I could get it really cheap and it has domain privacy[^domain-privacy] included. Less money for GoDaddy, more money for me!
 
 # Conclusion
