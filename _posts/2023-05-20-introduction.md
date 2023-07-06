@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 ---
 
-I've finally moved on from my old, homemade blog[^old-blog], and I'm now using [Jekyll](https://jekyllrb.com/).
+I've finally moved on from my old, homemade blog[^old-blog], and I'm now using [Jekyll](https://jekyllrb.com/){:target="_blank"}.
 
 Why did I do that? The reason is simple:
 
@@ -74,23 +74,23 @@ For example, **themes**. I never used Ruby before. It was easy to install `jekyl
 
 **Customization** was okay-ish because I knew CSS, but GitHub Copilot[^copilot] had a lot to teach me about. Fortunately, I settled on the thing you see before your eyes and I'm happy with it.
 
-It's fine, though! I'm actually pleased with the result. I recommend Jekyll to anyone who wants to start a blog. By the way, the theme is called [Dark Poole](https://github.com/andrewhwanpark/dark-poole) but with some tweaks added.
+It's fine, though! I'm actually pleased with the result. I recommend Jekyll to anyone who wants to start a blog. By the way, the theme is called [Dark Poole](https://github.com/andrewhwanpark/dark-poole){:target="_blank"} but with some tweaks added.
 
 # Hosting
-I'm hosting this using [Netlify](https://netlify.com). It's free and it's a CI/CD[^ci-cd] service. I just push my code to GitHub and Netlify builds and deploys the site for me. It's great!
+I'm hosting this using [Netlify](https://netlify.com){:target="_blank"}. It's free and it's a CI/CD[^ci-cd] service. I just push my code to GitHub and Netlify builds and deploys the site for me. It's great!
 
-> Edit: I'm now using [Vercel](https://vercel.com) because of Next.js which I'm using for my other projects.
+> Edit: I'm now using [Vercel](https://vercel.com){:target="_blank"} because of Next.js which I'm using for my other projects.
 
-I bought this domain from [GoDaddy](https://godaddy.com). Since I am an EU citizen, I could get it really cheap and it has domain privacy[^domain-privacy] included. Less money for GoDaddy, more money for me!
+I bought this domain from [GoDaddy](https://godaddy.com){:target="_blank"}. Since I am an EU citizen, I could get it really cheap and it has domain privacy[^domain-privacy] included. Less money for GoDaddy, more money for me!
 
 # Conclusion
 All in all, this has been a smooth transition. I'm ready to share some of my new projects with you. Stay tuned, cause I've got a lot of stuff on the cooker!
 
-[^old-blog]: It's still available on [extremq.github.io](https://extremq.github.io), and the source code is archived on [GitHub](https://github.com/extremq/extremq.github.io).
+[^old-blog]: It's still available on [extremq.github.io](https://extremq.github.io){:target="_blank"}, and the source code is archived on [GitHub](https://github.com/extremq/extremq.github.io){:target="_blank"}.
 [^explanation]: For example, `<mycomponent(a|b|c)/>` would get the arguments `$1$=a`, `$2$=b`, `$3$=c`. You could have as many arguments as you wanted, and they would be replaced in order. I don't think I escaped the `|` character, so you couldn't use it as an argument.
-[^unix-timestamp]: The number of seconds since 1 January 1970 00:00:00 UTC. [Wikipedia article](https://en.wikipedia.org/wiki/Unix_time).
+[^unix-timestamp]: The number of seconds since 1 January 1970 00:00:00 UTC. [Wikipedia article](https://en.wikipedia.org/wiki/Unix_time){:target="_blank"}.
 [^daemon]: A daemon is a program that runs in the background. It's commonly used to run a program at a specific time, or to run a program when a specific event happens. For example, a daemon could run a program every 5 minutes, or it could run a program when a file is modified. [Wikipedia article](https://en.wikipedia.org/wiki/Daemon_(computing)).
-[^issue]: The issue is [here](https://github.com/poole/poole/issues/223).
-[^copilot]: Are you a student? If you get Github Pro, you can get access to GitHub Copilot for free! [GitHub Student Developer Pack](https://education.github.com/pack). No, I'm not sponsored by GitHub. I just think it's a great deal. I mean, I wish I was sponsored by GitHub, but I'm not.
-[^ci-cd]: Continuous Integration/Continuous Deployment. It's a process that allows you to automatically build and deploy your code. [Wikipedia article](https://en.wikipedia.org/wiki/CI/CD).
-[^domain-privacy]: Domain privacy is a service that hides your personal information from the public. When you buy a domain, you have to provide your name, address, phone number, etc. and that information is publicly available. Domain privacy hides that information and replaces it with the information of the company that provides the service. Companies usually make you pay for that privacy and it's annoying. [Wikipedia article](https://en.wikipedia.org/wiki/Domain_privacy).
+[^issue]: The issue is [here](https://github.com/poole/poole/issues/223){:target="_blank"}.
+[^copilot]: Are you a student? If you get Github Pro, you can get access to GitHub Copilot for free! [GitHub Student Developer Pack](https://education.github.com/pack){:target="_blank"}. No, I'm not sponsored by GitHub. I just think it's a great deal. I mean, I wish I was sponsored by GitHub, but I'm not.
+[^ci-cd]: Continuous Integration/Continuous Deployment. It's a process that allows you to automatically build and deploy your code. [Wikipedia article](https://en.wikipedia.org/wiki/CI/CD){:target="_blank"}.
+[^domain-privacy]: Domain privacy is a service that hides your personal information from the public. When you buy a domain, you have to provide your name, address, phone number, etc. and that information is publicly available. Domain privacy hides that information and replaces it with the information of the company that provides the service. Companies usually make you pay for that privacy and it's annoying. [Wikipedia article](https://en.wikipedia.org/wiki/Domain_privacy){:target="_blank"}.
